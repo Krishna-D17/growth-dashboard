@@ -1,0 +1,120 @@
+=== TITLE ===
+Southern Command INDIAN ARMY (@IaSouthern) / X
+
+=== META TAGS ===
+viewport: width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover
+color-scheme: light dark
+theme-color: #000000
+theme-color: #000000
+csp-nonce: Xw1Y5M4F+8jaQziEzH8/zA==
+robots: index, follow
+fb:app_id: 2231777543
+og:site_name: X (formerly Twitter)
+og:locale: en_US
+application-name: X (formerly Twitter)
+google-site-verification: reUF-TgZq93ZGtzImw42sfYglI2hY0QiGRmfc4jeKbs
+facebook-domain-verification: x6sdcc8b5ju3bh8nbm59eswogvg6t1
+None: https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/
+al:ios:app_store_id: 333903271
+al:ios:app_name: X
+al:android:package: com.twitter.android
+al:android:app_name: X
+apple-itunes-app: app-id=333903271
+apple-mobile-web-app-title: X (formerly Twitter)
+apple-mobile-web-app-capable: yes
+apple-mobile-web-app-status-bar-style: default
+mobile-web-app-capable: yes
+app-version: fa35e48ab0c432d7278f4428f5fce8e533bffa1f
+twitter-site-verification: VI2G6i3MxZkQDYfx3yli6M4Iw/AxXOKa8/026sEtIaTJ4mGOBv8nBZJUK5f4PhKV
+sentry-trace: d423b270f3024db3bf5c710c9b538ff5-aac785a658eb7757-0
+baggage: sentry-environment=production,sentry-release=fa35e48ab0c432d7278f4428f5fce8e533bffa1f,sentry-public_key=b523016f172e2f101d4f771b022ba96c,sentry-trace_id=d423b270f3024db3bf5c710c9b538ff5,sentry-org_id=30969,sentry-sampled=false,sentry-sample_rand=0.5576342243023071,sentry-sample_rate=0.003
+og:type: profile
+og:url: https://x.com/IaSouthern
+og:title: Southern Command INDIAN ARMY (@IaSouthern) on X
+title: Southern Command INDIAN ARMY (@IaSouthern) on X
+author: Southern Command INDIAN ARMY
+keywords: Southern Command INDIAN ARMY, IaSouthern, X, social media, profile, timeline
+profile:first_name: Southern
+profile:last_name: Command INDIAN ARMY
+profile:username: IaSouthern
+al:ios:url: twitter://user?screen_name=IaSouthern
+al:android:url: twitter://user?screen_name=IaSouthern
+twitter:card: summary_large_image
+twitter:site: @x
+twitter:title: Southern Command INDIAN ARMY (@IaSouthern) on X
+twitter:description: Official Page of Indian Army Southern Command, Pune. Following or Re-tweeting does not constitute endorsement. जयो वधो वा संग्रामे
+twitter:creator: @IaSouthern
+twitter:image: https://pbs.twimg.com/profile_banners/1260773792902610950/1749621554
+twitter:image:alt: Southern Command INDIAN ARMY
+twitter:label1: Posts
+twitter:data1: 7.6K
+twitter:label2: Joined
+twitter:data2: May 2020
+description: Official Page of Indian Army Southern Command, Pune. Following or Re-tweeting does not constitute endorsement. जयो वधो वा संग्रामे
+og:description: Official Page of Indian Army Southern Command, Pune. Following or Re-tweeting does not constitute endorsement. जयो वधो वा संग्रामे
+og:image: https://pbs.twimg.com/profile_images/2055341014442029056/Oe5p_PXG_200x200.jpg
+og:image:secure_url: https://pbs.twimg.com/profile_images/2055341014442029056/Oe5p_PXG_200x200.jpg
+og:image:type: image/jpeg
+og:image:width: 200
+og:image:height: 200
+og:image:alt: Southern Command INDIAN ARMY
+
+=== SCRIPTS ===
+Script 0: type=module, length=0
+Script 1: type=text/javascript, length=1833
+Script 2: type=text/javascript, length=1493
+Script 3: type=text/javascript, length=148
+Script 4: type=text/javascript, length=148
+Script 5: type=text/javascript, length=148
+Script 6: type=text/javascript, length=148
+Script 7: type=text/javascript, length=148
+Script 8: type=text/javascript, length=57
+Script 9: type=text/javascript, length=845
+
+=== ARTICLES / TWEET ELEMENTS ===
+Article elements count: 5
+Article 0 text: Southern Command INDIAN ARMY@IaSouthern5hसर्वत्र - इज़्ज़त-ओ-इक़बाल
+𝐒𝐚𝐫𝐯𝐚𝐭𝐫𝐚 – 𝐈𝐳𝐳𝐚𝐭-𝐎-𝐈𝐪𝐛𝐚𝐥
+
+Two Centuries of Firepower. An Enduring Legacy of Victory.
+
+On the occasion of the 200th #GunnersDay, Lt G
+Article 1 text: Southern Command INDIAN ARMY@IaSouthernSep 26Advancing Communication Capabilities | Integration & Innovation
+
+A two-day Communication Conclave was conducted by #SouthernCommand to deliberate on the ev
+Article 2 text: Southern Command INDIAN ARMY@IaSouthernSep 24Lt Gen Rajesh Pushkar, AVSM, VSM, #ArmyCommander, #SouthernCommand, visited the formations and units at #Nasirabad Military Station, reviewing their operat
+Article 3 text: Southern Command INDIAN ARMY@IaSouthernSep 24Advancing Defence Indigenisation | Strengthening Operational Readiness
+
+#IndianArmy has signed an MoU with #IITMadras to indigenise critical modules of wea
+Article 4 text: Southern Command INDIAN ARMY@IaSouthernSep 23Mrs Anupama Pushkar, Regional President, #SouthernStarAWWA, visited the Paraplegic Rehabilitation Centre, #Khadki, reaffirming AWWA’s unwavering commitment
+
+=== LINKS WITH /STATUS/ ===
+Status links count: 38
+Link 0: href=/IaSouthern/status/2104384239198417184, text=5h
+Link 1: href=/IaSouthern/status/2104384239198417184/photo/1, text=
+Link 2: href=/IaSouthern/status/2104384239198417184/photo/1, text=
+Link 3: href=/IaSouthern/status/2104384239198417184, text=
+Link 4: href=/IaSouthern/status/2103835730116259966, text=Sep 26
+Link 5: href=/IaSouthern/status/2103835730116259966/photo/1, text=
+Link 6: href=/IaSouthern/status/2103835730116259966/photo/1, text=
+Link 7: href=/IaSouthern/status/2103835730116259966/photo/2, text=
+Link 8: href=/IaSouthern/status/2103835730116259966/photo/2, text=
+Link 9: href=/IaSouthern/status/2103835730116259966/photo/3, text=
+
+=== BODY TEXT SNIPPET ===
+Southern Command INDIAN ARMY (@IaSouthern) / XLog inSign upLog inSign upSouthern Command INDIAN ARMY7,587 postsSouthern Command INDIAN ARMY@IaSouthernOfficial Page of Indian Army Southern Command, Pune. Following or Re-tweeting does not constitute endorsement. जयो वधो वा संग्रामेPune, Indiaindianarmy.nic.in/homeBorn March 1Joined May 202082Following187.7KFollowersMentionFollowPostsPostsRepliesRepliesRepostsRepostsMediaMediaSouthern Command INDIAN ARMY@IaSouthern5hसर्वत्र - इज़्ज़त-ओ-इक़बाल
+𝐒𝐚𝐫𝐯𝐚𝐭𝐫𝐚 – 𝐈𝐳𝐳𝐚𝐭-𝐎-𝐈𝐪𝐛𝐚𝐥
+
+Two Centuries of Firepower. An Enduring Legacy of Victory.
+
+On the occasion of the 200th #GunnersDay, Lt Gen Rajesh Pushkar, AVSM, VSM, #ArmyCommander, and All Ranks of #SouthernCommand extend warm greetings Show more00:0015762.7KSouthern Command INDIAN ARMY@IaSouthernSep 26Advancing Communication Capabilities | Integration & Innovation
+
+A two-day Communication Conclave was conducted by #SouthernCommand to deliberate on the evolving communications landscape and future-ready technologies.
+
+Discussions focused on communication architecture, Show more2131086KSouthern Command INDIAN ARMY@IaSouthernSep 24Lt Gen Rajesh Pushkar, AVSM, VSM, #ArmyCommander, #SouthernCommand, visited the formations and units at #Nasirabad Military Station, reviewing their operational readiness and capability development initiatives.
+
+The visit included briefings on next-generation training and the Show more12117414KSouthern Command INDIAN ARMY@IaSouthernSep 24Advancing Defence Indigenisation | Strengthening Operational Readiness
+
+#IndianArmy has signed an MoU with #IITMadras to indigenise critical modules of weapon systems, in alignment with the #JAIseVIJAY mission.
+
+The initiative will enhance indigenous repair and sustenance Show more3201237KSouthern Command INDIAN ARMY@IaSouthernSep 23Mrs Anupama Pushkar, Regional President, #SouthernStarAWWA, visited the Paraplegic Rehabilitation Centre, #Khadki, reaffirming AWWA’s unwavering commitment to the welfare, dignity and rehabilitatio
